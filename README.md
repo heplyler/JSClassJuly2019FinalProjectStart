@@ -1,2 +1,0 @@
-# JSClassJuly2019FinalProjectStart
-Created with CodeSandbox
